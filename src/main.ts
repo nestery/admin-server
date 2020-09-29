@@ -13,6 +13,6 @@ async function bootstrap() {
   );
   app.register(fmp)
   app.enableCors();
-  await app.listen(20000);
+  await app.listen(20000, '0.0.0.0');
 }
 bootstrap();
