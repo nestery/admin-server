@@ -1,0 +1,5 @@
+{
+    "vetur.format.enable": false,
+    "editor.formatOnSave": true,
+    "terminal.integrated.fontSize": 10
+}
